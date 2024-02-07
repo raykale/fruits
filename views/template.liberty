@@ -1,0 +1,8 @@
+<head>
+#title#
+</head>
+<body>
+<header>#message#</header>
+<h2>Rachail is nice</h2>
+#content#
+</body>
